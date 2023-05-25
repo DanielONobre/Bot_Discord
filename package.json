@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "node": "^19.6.0",
+    "node-fetch": "^3.3.0"
+  },
+  "name": "bot-discord",
+  "version": "1.0.0",
+  "description": "Bot teste",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no teste specified\" && exit 1"
+  },
+  "keywords": [
+    "bot-discord"
+  ],
+  "author": "Manel",
+  "license": "ISC"
+}
